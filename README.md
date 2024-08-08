@@ -1,1 +1,4 @@
 # Hypnosis
+
+
+Hypnotherapy
